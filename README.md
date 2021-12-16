@@ -86,3 +86,14 @@ Die Referenzimplementierung und die Verprobung kann lokal oder auf einer bereitg
 ## Literatur
 
 __Bücher, Artikel, elektronische Quellen zum Thema__
+
+- Domain-Driven Design Distilled; Vernon, Vaughn; Addison-Wesley; ISBN 978-0-13-443442-1
+  deutsche Übersetzung: ISBN 978-3-86490-439-4
+- https://ddd-referenz.de/
+- Clean Architecture; Martin, Robert C.; Pearson; ISBN 978-0-13-449416-6
+  Hier die Themen: "Component Cohesion" und "Component Coupling"
+- https://www.gitops.tech/
+  Das Buch zumr Thema: ISBN 978-3982112688
+- GitOps and Kubernetes: Continuous Deployment with Argo CD, Jenkins X, and Flux; Yuen, Billy; et al.; ISBN 978-1617297274
+- ...
+
