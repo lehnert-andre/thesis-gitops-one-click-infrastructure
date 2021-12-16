@@ -48,11 +48,13 @@ __„Was soll?“ konkret: Stichpunktartig formuliert, welche konkreten Dinge pr
   - Ensprechend der GitOps-Methodik besteht die Referenzimplementierung vornehmlich aus .yaml-Dateien zur Konfiguration der Kubernetes-Infrastruktur
 - Weitere optionale Repositories zur Simulation der Microservices-Repositories
 
+
+
 ## Aufgaben
 
 __„Wie soll?“: Stichpunktartig einzelne Aufgabenpakete, die vom Start bis zu den Zielen zu bearbeiten sind. Ggf. Vorgehensweisen, Methoden, Lösungsansätze nennen. Ggf. Umfang abschätzen, Reihenfolgen festlegen, Prioritäten setzen.__
 
-Voerbereitung:
+Vorbereitung:
 
 - Bereitstellung eines Beispiel Microservice-Systems durch den Betrieb
 - Definition von Mindestanforderungen durch das Projekt.
