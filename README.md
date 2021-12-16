@@ -39,7 +39,7 @@ Die Ausarbeitung eines Kompromisses und die Skizzierung eines Lösungswegs über
 
 __„Was soll?“ konkret: Stichpunktartig formuliert, welche konkreten Dinge produziert werden sollen. Dazu gehört stets das Thesisdokument, ggf. Programme wie Spezifikationen, Implementationen, Prototypen, Handbücher, oder Videos, Filme.__
 
-- Spezifikation einer cloud-native Referenzarchitektur zum Betrieb von Microservice-Systemen
+- Spezifikation einer cloud-native Referenzarchitektur zum Betrieb von Microservice-Systemen<br>
   Wünschenswert sind typische Infrastruktur-Bestandteile:
   - Betrieb eines gestellten Microservice-Systems
   - GitOps Operator zur Realisierung des Continuous Delivery nach dem Pull-Prinzip
@@ -57,7 +57,7 @@ __„Wie soll?“: Stichpunktartig einzelne Aufgabenpakete, die vom Start bis zu
 Vorbereitung:
 
 - Bereitstellung eines Beispiel Microservice-Systems durch den Betrieb
-- Definition von Mindestanforderungen durch das Projekt.
+- Definition von Mindestanforderungen durch das Projekt.<br>
   Die Anforderungen ergeben sich über diese Schwerpunkte:
   - Betrieb
   - Sicherheitsaspekte
