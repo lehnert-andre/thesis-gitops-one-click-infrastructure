@@ -13,6 +13,8 @@
   70565 Stuttgart
   ```
 - Betreuer im Betrieb: ```Andre Lehnert```
+- Dauer: ```6 Monate```
+- Sprache: ```Deutsch/ Englisch```
 
 ---
 
@@ -61,7 +63,7 @@ Vorbereitung:
   Die Anforderungen ergeben sich über diese Schwerpunkte:
   - Betrieb
   - Sicherheitsaspekte
-  - Inegration in den Entwicklungsprozess
+  - Integration in den Entwicklungsprozess
   - Wartbarkeit
   - Übertragbarkeit
 
@@ -74,6 +76,8 @@ Durchführung:
   - Agile Software-Entwicklung
   - DevOps inkl. Automatisierungslösungen, wie CI/CD
   - DevSecOps
+  - Infrastructure as Code
+  - Configuration Management
   - GitOps
 - Ausarbeitung und Vorstellung von mindestens zwei Lösungswegen
 - Validierung der ausgearbeiteten Lösungswege bzw. Referenzarchitekturen gegenüber den Mindestanforderungen (erfüllt/ nicht erfüllt)
@@ -99,4 +103,6 @@ __Bücher, Artikel, elektronische Quellen zum Thema__
 - GitOps and Kubernetes: Continuous Deployment with Argo CD, Jenkins X, and Flux; Yuen, Billy; et al.; ISBN 978-1617297274
 - iX Kompakt 2021 - RZ-Automatisierung; Seite 132ff; ISSN 0935-9680 
 - ...
+
+
 
