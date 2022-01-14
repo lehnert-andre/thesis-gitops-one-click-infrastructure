@@ -97,5 +97,6 @@ __Bücher, Artikel, elektronische Quellen zum Thema__
 - https://www.gitops.tech/
   Das Buch zumr Thema: ISBN 978-3982112688
 - GitOps and Kubernetes: Continuous Deployment with Argo CD, Jenkins X, and Flux; Yuen, Billy; et al.; ISBN 978-1617297274
+- iX Kompakt 2021 - RZ-Automatisierung; Seite 132ff; ISSN 0935-9680 
 - ...
 
